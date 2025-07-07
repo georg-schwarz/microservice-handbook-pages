@@ -9,8 +9,8 @@ permissions:
   id-token: write
 
 env:
-  URL: https://georg-schwarz.github.io
-  BASE_URL: /microservice-handbook-pages
+  URL: https://microservice-handbook.georg-schwarz.com
+  BASE_URL: /
   GH_ORG: georg-schwarz
   GH_PROJ: microservice-handbook-pages
 
